@@ -1,5 +1,5 @@
-# Clean
+# CommClean
 
-Petit nettoyeur de commentaire pour langage interprété
+Nettoyeur de commentaire
 
 In Progress
